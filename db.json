@@ -1,0 +1,53 @@
+{
+    "Albums": [
+      {
+        "id": 0,
+        "album-name": "Hybrid Theory (Bonus Edition)",
+        "artist": "Linkin Park",
+        "web": "https://open.spotify.com/album/6hPkbAV3ZXpGZBGUvL6jVM",
+        "genre": "Nu metal",
+        "release": 2000,
+        "Length": 49.13,
+        "track-listing": [
+          "Papercut",
+          "One Step Closer",
+          "With You",
+          "Points of Authority",
+          "Crawling",
+          "Runaway",
+          "By Myself",
+          "In the End",
+          "A Place for My Head",
+          "Forgotten",
+          "Cure for the Itch",
+          "Pushing Me Away",
+          "My December",
+          "High Voltage",
+          "Papercut - Live at Yalding House, England, 1/12/2001 - BBC One"
+        ]
+      },
+      {
+        "id": 1,
+        "album-name": "Enema Of The State",
+        "artist": "Blink 182",
+        "web": "https://open.spotify.com/album/652N05EcNH1a4bIlUixQE2",
+        "genre": "Pop punk",
+        "release": 1999,
+        "Length": 35.32,
+        "track-listing": [
+          "Dumpweed",
+          "Don't Leave Me",
+          "Aliens Exist",
+          "Going Away To College",
+          "What's My Age Again",
+          "Dysentery Gary",
+          "Adam's Song",
+          "All The Small Things",
+          "The Party Song",
+          "Mutt",
+          "Wendy Clear",
+          "Anthem"
+        ]
+      }
+    ]
+}
